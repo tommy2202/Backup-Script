@@ -1,7 +1,0 @@
-2025-01-24 03:50:52,335 - INFO - Setting up the GUI.
-2025-01-24 03:50:52,526 - INFO - GUI setup complete. Starting main loop.
-2025-01-24 03:50:59,376 - INFO - Opening folder selection dialog.
-2025-01-24 03:51:30,144 - INFO - Source folder size: 556956667 bytes
-2025-01-24 03:51:30,144 - INFO - Available space at destination: 88170459136 bytes
-2025-01-24 03:51:41,985 - INFO - Creating encrypted ZIP archive: C:/Users/Tom/Downloads\Code_backup_20250124_035141.zip
-2025-01-24 03:52:36,629 - INFO - Encrypted backup created successfully at C:/Users/Tom/Downloads\Code_backup_20250124_035141.zip
